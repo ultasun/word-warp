@@ -22,7 +22,7 @@ A *Docker* image is available, the game will start using four letters...
 ...the game is very difficult with four letters, due to the 100,000 word dictionary installed.  The user would be mad to try any higher number...
 ## Manual installation
 ### Want to play more than four letters?
-Clone the repository, adjust the last line of `word-warp-symbols.lisp`, the function call to `START-ME`, line 266.  Beware, playing with more than four letters, with the 100,000 word dictionary, takes a long time to win.
+Clone the repository, adjust the last line of `word-warp-symbols.lisp`, the function call to `START-ME`, [line 266](https://github.com/ultasun/word-warp/blob/master/word-warp-symbols.lisp#L266).  Beware, playing with more than four letters, with the 100,000 word dictionary, takes a long time to win.
 
 `clisp word-warp-symbols.lisp`
 
