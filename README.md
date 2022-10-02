@@ -3,7 +3,7 @@ This was a pair programming project conducted as a homework assignment during Bl
 
 *Word-Warp* is a game where you descramble the letters.  
 
-# Two Versions
+## Two Versions
 
 The difference between `word-warp.lisp` and `word-warp-symbols.lisp` is, 
 * The former uses strings 
